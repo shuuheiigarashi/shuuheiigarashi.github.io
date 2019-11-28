@@ -340,7 +340,7 @@ footer p{
     }
     
     .work{
-        display: flex;
+        display: block;
         text-align: center;
     }
     
@@ -356,6 +356,7 @@ footer p{
     
     .work > div{
         width: 50%;
+        margin: auto;
     }
     
     .mail{
